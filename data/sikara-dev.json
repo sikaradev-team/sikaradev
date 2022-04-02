@@ -1,0 +1,59 @@
+{
+  "banner": {
+    "title": "Une meilleure solution pour digitaliser votre entreprise",
+    "description": "vous accompagne pour la transformation digitale de votre entreprise avec des qualités et des nouvelles technologies"
+  },
+  "about": {
+    "title": "Apropos de nous",
+    "descriptions": [
+      {
+        "description": "Nous sommes une communauté des jeunes malagasy, ingénieurs en informatique issu des grandes ecoles et avons acquis des solides experiences des grandes ESN de madagascar."
+      },
+      {
+        "description": "Composés de differents talents dans le domaine de digitalisation des entreprises, nous vous accompagnons dans la réalisation de vos projet numérique, ou de maintenir un projet existant"
+      }
+    ]
+  },
+  "choice": {
+    "title": "Pour quoi nous choisir",
+    "description": "Une équipe jeune experimenté et dynamique à l’écoute de vos bésoins.Une équipe en perpetuel évolution dans le nouveau technologie. Une équipe qui se souci de la qualité de vos produits aves des tarifs compétitif"
+  },
+  "devProcess": {
+    "title": "Nos process de developpement",
+    "cards": [
+      {
+        "title": "Analyse et Conception",
+        "description": " Avant de commencer le developpement, nous analysons vos bésoins et les concevoirs afin de vous fournir un produit de qualité correspond à vos attente"
+      },
+      {
+        "title": "Developpement",
+        "description": "Nous pratiquons le principe de design SOLID combiné avec le DDD ou Domaine Driven Design pour avoir un produit de qualité et extensible"
+      },
+      {
+        "title": "Teste et deploiement",
+        "description": "Toujours dans le souci de la qualité de nos travail, on ne livre jamais un produit qui n’est pas testé et reponds bien l’exigence metier. On utilise dans ce cas l’intégration continue avec le test automatise"
+      }
+    ]
+  },
+  "expertise": {
+    "title": "Nos domaines d’expertise",
+    "description": "Nous avons des collaborateurs experimentés dans divers plateformes capable de subvenir à vos bésoins technologiqu",
+    "technos": [
+      {
+        "icon": "fab fa-bootstrap fa-2x",
+        "title": "Web",
+        "description": "Nous vous proposons la solution web pour votre entreprise.Notre objectif est de vous rapprocher au près de vos clients à travers le web"
+      },
+      {
+        "icon": "fa fa-tablet-alt fa-2x",
+        "title": "Mobile",
+        "description": "Nous avons deux solution hybride dans ce technologie pour facilité l’accès à vos service grâce à l’application mobile."
+      },
+      {
+        "icon": "fa fa-laptop fa-2x",
+        "title": "Desktop",
+        "description": "Aurriez-vous besoins d’une application de bureau pour votre metier ou sevice.Nous vous proposons la technologie multiplateform"
+      }
+    ]
+  }
+}
