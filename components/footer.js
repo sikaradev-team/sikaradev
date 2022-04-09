@@ -24,7 +24,7 @@ export default function Footer() {
           </div>
         </div>
         <p className="text-center">
-          sikaradev@sikaradev.com <br /> +261 34 73 511 95
+          sikaradev@sikaradev.com <br /> +261 34 12 066 98
           <br /> Lot IIC23FJ Ambatomaro 101 Antananarivo, MADAGASCAR
         </p>
         <p className="text-center">&copy;copyright SikaraDev-2022</p>
