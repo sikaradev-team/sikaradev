@@ -117,7 +117,7 @@ a{
   max-width: 100%;
   border-radius: 10px;
 }
-.section-about::before,
+/*.section-about::before,
 .section-about::after{
   content: '';
   position: absolute;
@@ -130,7 +130,7 @@ a{
   -moz-transform: skewY(-4deg) ;
   -ms-transform: skewY(-4deg) ;
 
-}
+}*/
 
 /* section-choisir */
 
@@ -224,7 +224,7 @@ p{
 
 footer{
   margin-top: 50px;
-  height: 300px;
+  min-height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;

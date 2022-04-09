@@ -1,9 +1,16 @@
+import Image from "next/image";
+
 export default function Footer() {
   return (
     <footer className="bg-secondary">
       <div className="container">
         <h1 className="logo text-center">
-          <img src="images/logo.svg" alt="" />
+          <Image
+            src="/images/logo.svg"
+            alt="The logo image"
+            width="200"
+            height="200"
+          />
         </h1>
         <div className="social-icon d-flex col-md-2 justify-content-center gap-4 mx-auto">
           <div className="icon-bg">
