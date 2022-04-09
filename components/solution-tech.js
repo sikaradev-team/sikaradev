@@ -12,11 +12,27 @@ export default function SolutionTech() {
           </p>
         </div>
         <div className="d-flex justify-content-center gap-3">
-          <div className="languages-card"></div>
-          <div className="languages-card"></div>
-          <div className="languages-card"></div>
-          <div className="languages-card"></div>
-          <div className="languages-card"></div>
+          <div className="languages-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+          </div>
+          <div className="languages-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          </div>
+          <div className="languages-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          </div>
+          <div className="languages-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+          </div>
+          <div className="languages-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+          </div>
+          <div className="languages-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+          </div>
+          <div className="languages-card">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+          </div>
         </div>
       </div>
     </section>
