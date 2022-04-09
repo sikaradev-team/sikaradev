@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className="container">
         <a className="navbar-brand logo" href="#">
           <Image
-            src="/images/sikara-dev-logo.png"
+            src="/images/logo.svg"
             alt="Sikara dev logo"
             width={150}
             height={60}
