@@ -33,7 +33,7 @@ a {
 }
 
 .btn-link {
-  background-color: #FFD400 !important;
+  background-color: #f5bf18 !important;
   box-shadow: none;
 }
 
@@ -42,7 +42,7 @@ a {
 }
 
 .col-md-6 h1 {
-  color: #FFD400;
+  color: #f5bf18;
   font-size: 35px;
 }
 
@@ -57,11 +57,11 @@ a {
 }
 
 .vh-600 span {
-  color: #FFD400;
+  color: #f5bf18;
 }
 
 .icon-bg {
-  background-color: #FFD400;
+  background-color: #f5bf18;
   width: 30px;
   height: 30px;
   margin-bottom: 20px;
@@ -111,17 +111,17 @@ a {
 }
 
 .section-about h2 {
-  color: #FFD400;
+  color: #f5bf18;
   font-size: 30px;
   font-weight: 400;
   margin-bottom: 10px;
 }
 
 .separater {
-  border: 2px solid #FFD400;
+  border: 2px solid #f5bf18;
   width: 150px;
   margin: auto;
-  background-color: #FFD400;
+  background-color: #f5bf18;
 }
 
 .section-about .figure {
@@ -166,7 +166,7 @@ a {
 .section-dev h2,
 .section-domaines h2,
 .section-languages h2 {
-  color: #FFD400;
+  color: #f5bf18;
   font-size: 30px;
   font-weight: 400;
   margin-bottom: 10px;

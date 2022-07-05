@@ -1,15 +1,15 @@
 import Head from "next/head";
 import Footer from "./footer";
 import Navbar from "./navbar";
-
+import MessengerCustomerChat from "react-messenger-customer-chat";
 export default function Layout({ children, home }) {
   return (
     <div>
       <Head>
-        <meta charset="UTF-8" />
+        <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Home|sikara-dev</title>
-        
+
         <link
           rel="apple-touch-icon"
           sizes="180x180"
@@ -33,6 +33,7 @@ export default function Layout({ children, home }) {
         <Navbar />
       </header>
       <main className="main">{children}</main>
+      <MessengerCustomerChat pageId="104641308446777" appId="457987125708334" />
       <Footer />
     </div>
   );
